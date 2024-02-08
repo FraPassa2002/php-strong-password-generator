@@ -1,4 +1,12 @@
-# template-php
+
+PHP Strong Password Generator
+
+<!-- 1- creare form che invia a GET la lunghezza della password
+2- creare una funzione che utilizza il dato del form per creare la password
+3- la password casuale conterrà lettere, lettere maiuscole, numeri e simboli -->
+
+
+
 
 
 Ciao a tutti!
@@ -22,18 +30,3 @@ Invece di visualizzare la password nella index, effettuare un redirect ad una pa
 Milestone 4 (BONUS)
 Gestire ulteriori parametri per la password: quali caratteri usare fra numeri, lettere e simboli. Possono essere scelti singolarmente (es. solo numeri) oppure possono essere combinati fra loro (es. numeri e simboli, oppure tutti e tre insieme).
 Dare all'utente anche la possibilità di permettere o meno la ripetizione di caratteri uguali.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
